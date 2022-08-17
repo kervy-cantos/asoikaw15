@@ -8,6 +8,7 @@ I am Kervy Regidor Cantos, currently working as a Web Developer at the AME . I a
 
 
 ## ⚡ Technologies
+***
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -30,7 +31,7 @@ I am Kervy Regidor Cantos, currently working as a Web Developer at the AME . I a
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
+___
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asoikaw15&show_icons=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asoikaw15&hide=TeX&layout=compact)
 
