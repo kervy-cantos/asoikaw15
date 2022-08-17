@@ -36,5 +36,5 @@ I am Kervy Regidor Cantos, currently working as a Web Developer at the AME . I a
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asoikaw15.asoikaw15)
 
-
+___
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
