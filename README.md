@@ -31,7 +31,7 @@ I am Kervy Regidor Cantos, currently working as a Web Developer at the AME . I a
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=asoikaw15&count_private=true&show_icons=true&include_all_commits=true)
+![Kervy's GitHub stats](https://github-readme-stats.vercel.app/api?username=asoikaw15&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asoikaw15&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asoikaw15.asoikaw15)
