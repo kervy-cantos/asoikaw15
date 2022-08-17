@@ -35,3 +35,6 @@ I am Kervy Regidor Cantos, currently working as a Web Developer at the AME . I a
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asoikaw15&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=asoikaw15.asoikaw15)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
